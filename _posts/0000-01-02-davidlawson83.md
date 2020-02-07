@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<img src="markdownmonstericon.png">
 Use the left arrow to go back!
